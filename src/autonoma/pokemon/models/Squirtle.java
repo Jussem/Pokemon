@@ -1,0 +1,52 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package autonoma.pokemon.models;
+
+/**
+ *
+ * @author juanb
+ */
+public class Squirtle extends Pokemon implements PokemonAgua{
+    //CONSTRUCTOR
+    public Squirtle(int numPokedex, String nombre, float pesoPokemon, String temporada){
+        super(numPokedex, nombre, pesoPokemon, temporada);
+    }
+    //metodo para uasr el ataque "Placaje"
+    @Override
+    public String ataquePlacaje() {
+        throw new UnsupportedOperationException("Squirtle ataca con 'Placaje'"); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
+    //metodo para uasr el ataque "Arañazo"
+    @Override
+    public String ataqueAranazo() {
+        throw new UnsupportedOperationException("Squirtle ataca con 'Aranazo'"); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
+    //metodo para uasr el ataque "Mordisco"
+    @Override
+    public String ataqueMordisco() {
+        throw new UnsupportedOperationException("Squirtle ataca con 'Mordisco'"); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
+    //metodo para uasr el ataque "HidroBomba"
+    @Override
+    public String ataqueHidroBomba() {
+        throw new UnsupportedOperationException("Squirtle ataca con 'HidroBomba'"); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
+    //metodo para uasr el ataque "Pistola Agua"
+    @Override
+    public String ataquePistolaAgua() {
+        throw new UnsupportedOperationException("Squirtle ataca con 'Pistola Agua'"); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
+    //metodo para uasr el ataque "Burbuja"
+    @Override
+    public String ataqueBurbuja() {
+        throw new UnsupportedOperationException("Squirtle ataca con 'Burbuja'"); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
+    //metodo para uasr el ataque "HidroPulso"
+    @Override
+    public String ataqueHidroPulso() {
+        throw new UnsupportedOperationException("Squirtle ataca con 'HidroPulso'"); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
+    
+}

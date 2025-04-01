@@ -16,37 +16,37 @@ public class Pikachu extends Pokemon implements PokemonElectrico{
     //metodo para uasr el ataque "Placaje"
     @Override
     public String ataquePlacaje() {
-        throw new UnsupportedOperationException("Pikachu ataca con 'Placaje'"); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+        return("Pikachu ataca con 'Placaje'"); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
     }
     //metodo para uasr el ataque "Arañazo"
     @Override
     public String ataqueAranazo() {
-        throw new UnsupportedOperationException("Pikachu ataca con 'Aranazo'"); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+        return("Pikachu ataca con 'Aranazo'"); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
     }
     //metodo para uasr el ataque "Mordisco"
     @Override
     public String ataqueMordisco() {
-        throw new UnsupportedOperationException("Pikachu ataca con 'Mordisco'"); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+        return("Pikachu ataca con 'Mordisco'"); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
     }
     //metodo para uasr el ataque "Impactrueno"
     @Override
     public String ataqueImpactrueno() {
-        throw new UnsupportedOperationException("Pikachu ataca con 'Impactrueno'"); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+        return("Pikachu ataca con 'Impactrueno'"); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
     }
     //metodo para uasr el ataque "Puño Trueno"
     @Override
     public String ataquePunoTrueno() {
-        throw new UnsupportedOperationException("Pikachu ataca con 'Puno Trueno'"); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+        return("Pikachu ataca con 'Puno Trueno'"); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
     }
     //metodo para uasr el ataque "Carga Electrica"
     @Override
     public String ataqueCargaElectrica() {
-        throw new UnsupportedOperationException("Pikachu ataca con 'Carga Electrica'"); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+        return("Pikachu ataca con 'Carga Electrica'"); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
     }
     //metodo para uasr el ataque "Bola Trueno"
     @Override
     public String ataqueBolaTrueno() {
-        throw new UnsupportedOperationException("Pikachu ataca con 'Bola Trueno'"); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+        return("Pikachu ataca con 'Bola Trueno'"); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
     }
     
 }

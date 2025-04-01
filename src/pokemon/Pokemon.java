@@ -12,8 +12,9 @@ import autonoma.pokemon.models.PokemonElectrico;
 import autonoma.pokemon.models.Squirtle;
 
 /**
- *
- * @author juanb
+ *@author Juan José Morales A.
+ * @version 20250327
+ * @since 1.0
  */
 public class Pokemon {
 
